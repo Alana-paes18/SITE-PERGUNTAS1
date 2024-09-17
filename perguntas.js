@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Polítca',
+    'Quem acertou uma cadeira no  candidato Pablo Marçal?',
+    'O candidato Nikolas Datena, em um momento de raiva'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'História',
+    'Quem foi o primeiro presidente do Brasil?',
+    'O primeiro presidente do Brasil foi Marechal Manuel Deodoro da Fonseca'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Fatos',
+    'Quem foi a primeira mulher a pisar na Lua?',
+    'A primeira mulher a pisar na Lua foi Christina Koch'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'Qual é o maior osso do corpo humano?',
+    'O maior osso do corpo humano é o Fêmur, na região da coxa'
 )
